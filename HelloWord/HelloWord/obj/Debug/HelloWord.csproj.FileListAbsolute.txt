@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\HelloWord\HelloWord\obj\Debug\HelloWord.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\HelloWord\HelloWord\obj\Debug\HelloWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\HelloWord\HelloWord\obj\Debug\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\HelloWord\HelloWord\bin\Debug\HelloWord.exe.config
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\HelloWord\HelloWord\bin\Debug\HelloWord.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\HelloWord\HelloWord\bin\Debug\HelloWord.pdb
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\HelloWord\HelloWord\obj\Debug\HelloWord.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\HelloWord\HelloWord\obj\Debug\HelloWord.pdb
