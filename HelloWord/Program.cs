@@ -24,7 +24,7 @@ namespace HelloWord
             // _
             // @ $ . 
 
-
+            /*
             int segundaGuerraMundial = 1939;
             string corFavorita = "Azul Claro";
             float velocidadeF1 = 360.5f;  // Trabalhar com float tem que colocar o f no final do numero exemplo: 158.99f
@@ -45,9 +45,37 @@ namespace HelloWord
 
             Console.WriteLine("Hello World");     // (N) QUEBRA A LINHA !
 
-            Console.WriteLine("Meu nome e JKS!");  // (N) QUEBRA A LINHA !  WriteLine Escreve um em cada linha.
+            Console.WriteLine("Meu nome e JKS!");  // (N) QUEBRA A LINHA !  WriteLine QUEBRA A LINHA TBM!
+            */
 
-            Console.ReadLine(); 
+
+            // --- Variavel dinamica --- // 
+
+            /*
+            dynamic corFavorita = "Vermelho";
+
+            Console.WriteLine(corFavorita);
+
+            corFavorita = 12321313;
+
+            Console.WriteLine(corFavorita);
+            */
+
+            // --- Const pode definir uma vez só, n tem como alterar --- // 
+
+            // const float PI = 3.231231321f;
+
+
+            string nome = "";
+            Console.WriteLine("Escreve seu Nome: ");
+            nome = Console.ReadLine();
+            Console.WriteLine("Seu nome é: ");
+            Console.WriteLine(nome);
+
+
+            Console.ReadLine();
+
+
 
         }
     }
