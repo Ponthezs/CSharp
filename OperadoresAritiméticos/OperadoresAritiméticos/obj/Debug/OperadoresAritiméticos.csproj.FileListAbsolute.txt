@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\OperadoresAritiméticos\OperadoresAritiméticos\bin\Debug\OperadoresAritiméticos.exe.config
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\OperadoresAritiméticos\OperadoresAritiméticos\bin\Debug\OperadoresAritiméticos.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\OperadoresAritiméticos\OperadoresAritiméticos\bin\Debug\OperadoresAritiméticos.pdb
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\OperadoresAritiméticos\OperadoresAritiméticos\obj\Debug\OperadoresAritiméticos.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\OperadoresAritiméticos\OperadoresAritiméticos\obj\Debug\OperadoresAritiméticos.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\OperadoresAritiméticos\OperadoresAritiméticos\obj\Debug\OperadoresAritiméticos.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\OperadoresAritiméticos\OperadoresAritiméticos\obj\Debug\OperadoresAritiméticos.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\OperadoresAritiméticos\OperadoresAritiméticos\obj\Debug\OperadoresAritiméticos.pdb
