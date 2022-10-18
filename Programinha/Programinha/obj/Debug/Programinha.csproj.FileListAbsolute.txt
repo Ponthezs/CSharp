@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Programinha\Programinha\bin\Debug\Programinha.exe.config
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Programinha\Programinha\bin\Debug\Programinha.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Programinha\Programinha\bin\Debug\Programinha.pdb
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Programinha\Programinha\obj\Debug\Programinha.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Programinha\Programinha\obj\Debug\Programinha.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Programinha\Programinha\obj\Debug\Programinha.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Programinha\Programinha\obj\Debug\Programinha.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Programinha\Programinha\obj\Debug\Programinha.pdb

@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Funções\Funções\bin\Debug\Funções.exe.config
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Funções\Funções\bin\Debug\Funções.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Funções\Funções\bin\Debug\Funções.pdb
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Funções\Funções\obj\Debug\Funções.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Funções\Funções\obj\Debug\Funções.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Funções\Funções\obj\Debug\Funções.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Funções\Funções\obj\Debug\Funções.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\Funções\Funções\obj\Debug\Funções.pdb
