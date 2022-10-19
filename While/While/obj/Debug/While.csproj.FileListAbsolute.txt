@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\While\While\bin\Debug\While.exe.config
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\While\While\bin\Debug\While.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\While\While\bin\Debug\While.pdb
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\While\While\obj\Debug\While.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\While\While\obj\Debug\While.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\While\While\obj\Debug\While.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\While\While\obj\Debug\While.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\While\While\obj\Debug\While.pdb
