@@ -146,6 +146,11 @@ namespace Calculadora
             operacao.Text = "";
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            s
+        }
+
         private void button4_Click(object sender, EventArgs e)
         {
             valor1 = decimal.Parse(textResultado.Text, CultureInfo.InvariantCulture);
