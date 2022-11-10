@@ -1,0 +1,11 @@
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\CronometroCs\CronometroCs\bin\Debug\CronometroCs.exe.config
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\CronometroCs\CronometroCs\bin\Debug\CronometroCs.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\CronometroCs\CronometroCs\bin\Debug\CronometroCs.pdb
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\CronometroCs\CronometroCs\obj\Debug\CronometroCs.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\CronometroCs\CronometroCs\obj\Debug\CronometroCs.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\CronometroCs\CronometroCs\obj\Debug\CronometroCs.Form1.resources
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\CronometroCs\CronometroCs\obj\Debug\CronometroCs.Properties.Resources.resources
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\CronometroCs\CronometroCs\obj\Debug\CronometroCs.csproj.GenerateResource.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\CronometroCs\CronometroCs\obj\Debug\CronometroCs.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\CronometroCs\CronometroCs\obj\Debug\CronometroCs.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\CSharp\CronometroCs\CronometroCs\obj\Debug\CronometroCs.pdb
