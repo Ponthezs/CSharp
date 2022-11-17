@@ -76,7 +76,10 @@ namespace Snake
             }
         }
 
-
+        public void Eat()
+        {
+            length++;
+        }
 
 
 
