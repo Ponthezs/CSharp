@@ -46,7 +46,7 @@
             // 
             this.PnTela.Location = new System.Drawing.Point(0, 92);
             this.PnTela.Name = "PnTela";
-            this.PnTela.Size = new System.Drawing.Size(448, 327);
+            this.PnTela.Size = new System.Drawing.Size(428, 428);
             this.PnTela.TabIndex = 0;
             // 
             // lbPontos
@@ -56,7 +56,7 @@
             this.lbPontos.Name = "lbPontos";
             this.lbPontos.Size = new System.Drawing.Size(448, 25);
             this.lbPontos.TabIndex = 0;
-            this.lbPontos.Text = "PONTOS:";
+            this.lbPontos.Text = "PONTOS:0";
             this.lbPontos.Click += new System.EventHandler(this.label1_Click);
             // 
             // menuStrip1
@@ -65,7 +65,7 @@
             this.Menu});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(448, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(428, 24);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -84,6 +84,7 @@
             this.iniciarJogoToolStripMenuItem.Name = "iniciarJogoToolStripMenuItem";
             this.iniciarJogoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.iniciarJogoToolStripMenuItem.Text = "Iniciar jogo";
+            this.iniciarJogoToolStripMenuItem.Click += new System.EventHandler(this.iniciarJogoToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
@@ -95,12 +96,17 @@
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
             this.sairToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.sairToolStripMenuItem.Text = "Sair";
+            this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
+            // 
+            // Frame
+            // 
+            this.Frame.Tick += new System.EventHandler(this.Frame_Tick);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(448, 420);
+            this.ClientSize = new System.Drawing.Size(428, 520);
             this.Controls.Add(this.lbPontos);
             this.Controls.Add(this.PnTela);
             this.Controls.Add(this.menuStrip1);
@@ -112,6 +118,7 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Snake ll";
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Clicado);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
