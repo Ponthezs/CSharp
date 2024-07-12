@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Enum",
+    "\\Enum\\Enum",
+    "\\For",
+    "\\For\\For",
+    "\\Switch",
+    "\\Switch\\Switch",
+    "\\While",
+    "\\While\\While"
+  ],
+  "SelectedNode": "\\While\\While\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
